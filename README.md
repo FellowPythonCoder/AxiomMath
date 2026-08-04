@@ -1,7 +1,10 @@
 # AxiomMath
 Math learning app
 
+Download Both folders
+Create a Folder Called Axiom then change Hi folder name to Frontend
 
+See photos below for visual guide
  Axiom 
 
 ## What is Axiom?
@@ -241,5 +244,7 @@ You have two choices: the **Simulator** (a fake iPhone on your Mac screen) or a 
 - [ ] (Optional) Added ElevenLabs API key
 - [ ] Same Wi-Fi network for phone + Mac
 - [ ] Signed the app with your Apple ID in Xcode (for real device)
+
+
 
 That's it — you should now have Axiom up and running! 
