@@ -4,7 +4,8 @@ Math learning app
 Download Both folders
 Create a Folder Called Axiom then change Hi folder name to Frontend
 
-See photos below for visual guide
+See Video
+below for visual guide
  Axiom 
 
 ## What is Axiom?
