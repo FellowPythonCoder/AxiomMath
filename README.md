@@ -4,10 +4,7 @@ Math learning app
 Please download the zip file the Hi folder doesnt work :)
 ## Getting Started
 
-Download ZIP this repo. Create a folder called `Axiom`, and inside it:
-
-
-See video below for a visual guide.
+Download ZIP this repo. 
 
 # Axiom
 
